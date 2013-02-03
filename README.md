@@ -1,4 +1,4 @@
 watcher
 =======
 
-Simple utility to watch directories | files for changes
+Simple utility to watch directories/files for changes
